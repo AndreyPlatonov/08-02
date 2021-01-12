@@ -1,0 +1,4 @@
+FROM centos
+EXPOSE 9200
+
+ENTRYPOINT ["bash"]
